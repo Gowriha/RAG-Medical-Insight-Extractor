@@ -1,4 +1,4 @@
-# RAG-Smart-Health-Report-Assisstant
+# RAG-Smart-Medical-Report-Assisstant
 Simplifying patient medical records using Retrieval-Augmented Generation (RAG) and Google Gemini.
 
 ## Overview
